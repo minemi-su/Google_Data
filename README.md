@@ -5,7 +5,6 @@ Python Analysis with two datasets; Google Apps and App Reviews
 
 
 
-# index
 ### **CONTENT LIST** 
 
 1. Importing the data
