@@ -1,7 +1,7 @@
 # Google_Data
 Python Analysis with two datasets; Google Apps and App Reviews 
 
-### * I made a presentation for this analysis you can check this on google slides by clicking [here]([https://github.com/minemi-su/Google_Data/blob/main/Google%20Data%20Analysis-mine.pdf](https://drive.google.com/file/d/1hphk01cmFCPCDkvJfA7zudsDFekzmYsU/view?usp=sharing)
+### * I made a presentation for this analysis you can check this on google slides by clicking [here]([https://github.com/minemi-su/Google_Data/blob/main/Google%20Data%20Analysis-mine.pdf](https://drive.google.com/file/d/1hphk01cmFCPCDkvJfA7zudsDFekzmYsU/view?usp=sharing))
 
 
 
